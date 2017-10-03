@@ -1,0 +1,6 @@
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\Problem 4. Hotel\bin\Debug\Problem_4.Hotel.exe.config
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\Problem 4. Hotel\bin\Debug\Problem_4.Hotel.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\Problem 4. Hotel\bin\Debug\Problem_4.Hotel.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\Problem 4. Hotel\obj\Debug\Problem_4.Hotel.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\Problem 4. Hotel\obj\Debug\Problem_4.Hotel.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\Problem 4. Hotel\obj\Debug\Problem 4. Hotel.csprojResolveAssemblyReference.cache

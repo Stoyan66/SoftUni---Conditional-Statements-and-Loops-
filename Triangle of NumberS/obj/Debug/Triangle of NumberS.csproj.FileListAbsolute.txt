@@ -1,0 +1,5 @@
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\Triangle of NumberS\bin\Debug\Triangle of NumberS.exe.config
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\Triangle of NumberS\bin\Debug\Triangle of NumberS.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\Triangle of NumberS\bin\Debug\Triangle of NumberS.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\Triangle of NumberS\obj\Debug\Triangle of NumberS.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\Triangle of NumberS\obj\Debug\Triangle of NumberS.pdb

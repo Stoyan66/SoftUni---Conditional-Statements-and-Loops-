@@ -1,0 +1,6 @@
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\11.5 Different Numbers\bin\Debug\11.5 Different Numbers.exe.config
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\11.5 Different Numbers\bin\Debug\11.5 Different Numbers.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\11.5 Different Numbers\bin\Debug\11.5 Different Numbers.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\11.5 Different Numbers\obj\Debug\11.5 Different Numbers.csprojResolveAssemblyReference.cache
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\11.5 Different Numbers\obj\Debug\11.5 Different Numbers.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\11.5 Different Numbers\obj\Debug\11.5 Different Numbers.pdb

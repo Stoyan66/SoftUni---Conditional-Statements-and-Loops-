@@ -1,0 +1,6 @@
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.exe.config
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\06. Interval of Numbers\obj\Debug\06. Interval of Numbers.csprojResolveAssemblyReference.cache
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\06. Interval of Numbers\obj\Debug\_06.Interval_of_Numbers.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\06. Interval of Numbers\obj\Debug\_06.Interval_of_Numbers.pdb

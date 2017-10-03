@@ -1,0 +1,5 @@
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

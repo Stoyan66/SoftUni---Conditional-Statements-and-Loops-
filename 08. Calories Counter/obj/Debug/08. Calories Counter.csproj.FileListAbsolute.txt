@@ -1,0 +1,6 @@
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\08. Calories Counter\bin\Debug\_08.Calories_Counter.exe.config
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\08. Calories Counter\bin\Debug\_08.Calories_Counter.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\08. Calories Counter\bin\Debug\_08.Calories_Counter.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\08. Calories Counter\obj\Debug\_08.Calories_Counter.exe
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\08. Calories Counter\obj\Debug\_08.Calories_Counter.pdb
+c:\users\bgsto\documents\visual studio 2017\Projects\CONDITIONALSTATEMENTSANDLOOPSEXERCISES\08. Calories Counter\obj\Debug\08. Calories Counter.csprojResolveAssemblyReference.cache
